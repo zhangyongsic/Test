@@ -1,0 +1,14 @@
+第一次提交
+$ git init
+$ touch README.md
+$ git add README.md
+$ git commit -m 'first_commit'
+$ git remote add origin https://github.com/jerryhanjj/baike_spider.git
+$ git push origin master
+
+第二次以及以后
+
+git add .
+git commit -m 'commit'
+git push origin master
+
